@@ -1,7 +1,7 @@
 # esp_arduino_package
 ================================================================
 
-When installing ESP8266 boards in Arduino IDE, it's too annoying due the the low speed!
+When installing ESP8266 boards in Arduino IDE, it's too annoying due the low speed!
 
 Just set board reference url to:
 
