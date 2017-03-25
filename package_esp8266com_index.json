@@ -622,7 +622,7 @@
           "name": "mkspiffs", 
           "systems": [
             {
-              "url": "https://github.com/igrr/mkspiffs/releases/download/0.1.2/mkspiffs-0.1.2-windows.zip", 
+              "url": "https://raw.githubusercontent.com/rpiguru/esp_arduino_package/master/mkspiffs-0.1.2-windows.zip",
               "checksum": "SHA-256:0a29119b8458b61a877408f7995e4944623a712e0d313a2c2f76af9ab55cc9f2", 
               "host": "i686-mingw32", 
               "archiveFileName": "mkspiffs-0.1.2-windows.zip", 
